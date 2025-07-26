@@ -1,5 +1,6 @@
 ﻿# Lulu Block 1 2025
-Elena making an LPR to go to sky with payload.
+LPR that flew with a dummy avionics payload (assembled PCB that was unpowered/not functional).
+Flight seems to be a success based on flight footage. Next step is to design and assemble a functioning PCB to fly on the same air frame as this one with a proper avionics bay.
 
 ## Flight Footage
 
