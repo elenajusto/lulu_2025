@@ -2,7 +2,7 @@
 Elena making an LPR to go to sky with payload.
 
 ## Flight Footage
-![flight_footage](https://img.youtube.com/vi/gxIHiGPOzwY)](https://www.youtube.com/watch?v=gxIHiGPOzwY)
+[![flight_footage](https://img.youtube.com/vi/gxIHiGPOzwY/0.jpg)](https://www.youtube.com/watch?v=gxIHiGPOzwY)
 
 ## Openrocket
 ![open_rocket](https://github.com/elenajusto/lulu_2025/blob/main/images/open_rocket.png)
