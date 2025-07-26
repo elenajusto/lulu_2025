@@ -13,11 +13,11 @@ Elena making an LPR to go to sky with payload.
 ![pad_2](https://github.com/elenajusto/lulu_2025/blob/main/images/pad_2.jpg)
 
 ### Recovery 
-![recovery_1](https://github.com/elenajusto/lulu_2025/blob/main/images/recovery_1.jpg)
-![recovery_2](https://github.com/elenajusto/lulu_2025/blob/main/images/recovery_2.jpg)
-![recovery_3](https://github.com/elenajusto/lulu_2025/blob/main/images/recovery_3.jpg)
-![recovery_4](https://github.com/elenajusto/lulu_2025/blob/main/images/recovery_4.jpg)
-![recovery_5](https://github.com/elenajusto/lulu_2025/blob/main/images/recovery_5.jpg)
+![recovery_1](https://github.com/elenajusto/lulu_2025/blob/main/images/recover_1.jpg)
+![recovery_2](https://github.com/elenajusto/lulu_2025/blob/main/images/recover_2.jpg)
+![recovery_3](https://github.com/elenajusto/lulu_2025/blob/main/images/recover_3.jpg)
+![recovery_4](https://github.com/elenajusto/lulu_2025/blob/main/images/recover_4.jpg)
+![recovery_5](https://github.com/elenajusto/lulu_2025/blob/main/images/recover_5.jpg)
 
 ### Engine
 ![engine_1](https://github.com/elenajusto/lulu_2025/blob/main/images/engine_1.jpg)
